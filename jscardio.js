@@ -8,6 +8,7 @@ function reverseString(str) {
     //     .reverse()
     //     .join('');
 
+    /////////////////////////////
     // let revString = '';
     // for(let i = str.length -1; i >= 0; i--) {
     //     revString = revString + str[i];
@@ -89,6 +90,6 @@ function reverseString(str) {
   
   
   // Call Function
-  const output = reverseInt(1234);
+  const output = capitalizeLetters('bRIana iS sUpEr cOoL');
   
   console.log(output);
